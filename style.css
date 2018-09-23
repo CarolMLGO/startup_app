@@ -1,0 +1,60 @@
+
+
+
+h1 {
+	color:green;
+	font-style:italic;
+	font-family: 'Caveat', cursive;
+	font-weight: bold;
+	border-bottom:2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow:4px 4px 5px #888888;
+	margin-top:10px;
+
+}
+
+header.startup h1 {
+  font-size: 3rem; 
+}
+
+
+
+
+
+
+
+
+body{
+	background: url("adventure.jpg") no-repeat fixed center;
+	background-size: cover;
+	height:100%;
+
+
+}
+
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  margin-top: 80px;
+
+}
+
+.btn-lg {
+  padding: 1rem 2rem; 
+
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #552400;
+  border-color: #552400;
+  border-width: 5px;
+
+  cursor: pointer;
+}
